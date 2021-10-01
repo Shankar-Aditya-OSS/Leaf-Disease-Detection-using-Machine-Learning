@@ -3,6 +3,7 @@
 Install SQL Lite studio for database usage
 
 Procedure:
+
 1.Download the Dataset from the below link:
 ```
 https://www.kaggle.com/shankaraditya0693/plantvillage
