@@ -9,6 +9,7 @@ Procedure:
 https://www.kaggle.com/shankaraditya0693/plantvillage
 ```
 2.Now, you can either have a new model by executing the "Train.py" file or use the saved model
+
 download the saved model here:
 ```
 https://www.kaggle.com/shankaraditya0693/saved-model
