@@ -36,13 +36,15 @@ https://www.kaggle.com/shankaraditya0693/saved-model
 
 10.The database is used in this project to display the description for the disease and also suggest a cure for that.
 
-11.Clicking on "Show Info" button i will pop up another window,
+11.Clicking on "Show Info" button it will pop up another window,
 
 ![Output 3](Output2.png)
 
 12.In the same window there is an URL provided, for more info on the disease, it's a clickable link.
 
 13.Eveything displayed in the above window is retrived from the database
+
+Database:
 
 ![Database](Database.png)
 
